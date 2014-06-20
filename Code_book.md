@@ -45,15 +45,19 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-
+=======================================================================================
 ########################################################################################
 
+Narrowed Data Set:
+==================
 
 I have compiled the test and training set data for the Samsung Galaxy accelerometer data into a single data set which includes the subject id, activity type duing measurement, and all values of the mean or standard deviation of a given measurement (see above description of types of measurements).
 To produce this data set use run_analysis.R, which outputs a txt file of space separated values to mean_std_compiled.txt. The column names of which are listed below.
 
 mean_std_compile.txt: 
+
 Column Names:
+
 "1" "id"
 "2" "activity"
 "3" "tBodyAcc.mean...X"
