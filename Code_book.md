@@ -139,3 +139,13 @@ Column Names:
 "79" "fBodyBodyAccJerkMag.std.."
 "80" "fBodyBodyGyroMag.std.."
 "81" "fBodyBodyGyroJerkMag.std.."
+
+
+=======================================================================
+
+Summary Data:
+=============
+
+The average value for all measured mean/std variables over the number of subjects for each type of activity: see by_activity_table.txt
+
+The average value for all measured mean/std variables over all activity types for each subject: see by_subject_table.txt 
