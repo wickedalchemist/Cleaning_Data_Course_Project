@@ -34,3 +34,5 @@ In this README I describe the processes of getting, cleaning, and compiling the 
 
 10.) Write out narrowed array to file.
 
+11.) Get some summary data. I take a quick look at the average of each measured mean/std variable for (a) each subject (over all activity types) -- see by_subject_table.txt and (b) activity type (over all subjects) -- see by_activity_table.txt
+
